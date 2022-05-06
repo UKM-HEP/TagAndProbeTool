@@ -1,5 +1,15 @@
 # TagAndProbe package using Legacy Open Data samples
 
+** UPDATE **
+
+Very useful materials for Tag and Probe:
+
+[workshop-lesson-tagandprobe](https://cms-opendata-workshop.github.io/workshop-lesson-tagandprobe/index.html)
+
+[ReportSummerStudentsRaphael](https://cds.cern.ch/record/2687885/files/ReportSummerStudentsRaphael.pdf)
+
+[idefficiencystudy](https://cms-opendata-guide.web.cern.ch/analysis/selection/idefficiencystudy/tutorial/01-introduction/)
+
 **Introduction**
 
 This is a simple example of the **TagAndProbe** method using datasets of CMS Open Data. The main goal of this project is to make a simple example code applying the Tag and Probe methods, since the official TagAndProbe tool is complex. In this project, we did a more easy-to-understand code for CMS Open Data users. More about it can be seen in this twiki:
